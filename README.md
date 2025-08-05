@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 QlobeQuest
+# 🌍 QlobeQuest - Global Quest for Cultural Discovery 💎
 
 <img src="QlobeQuest.png" alt="QlobeQuest Logo" width="200" height="200" />
 
@@ -224,4 +224,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Qloo** for providing the Taste AI™ platform
 - **OpenAI** for GPT-4 API access
 - **MongoDB** for database infrastructure
+
 - **The open-source community** for the incredible tools and libraries
