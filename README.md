@@ -23,11 +23,7 @@ We were inspired by the idea of making cultural intelligence interactive and eng
 
 
 - 🌐 **Interactive Map Interface**: Users select regions to explore via a gamified map.
-
 - 🎭 **Cultural Insights**: Discover food, fashion, music, travel tips, and more.
-
 - 🤖 **LLM-Powered Narratives**: GPT-4 generates immersive cultural stories and travel plans.
-
 - 🧭 **Gamification Layer**: Badges, quests, and achievements for exploration milestones.
-
 - 🔒 **Privacy-First Design**: No personal data required — recommendations are context-driven.
