@@ -319,7 +319,7 @@ class PrivacySessionManager {
   }
 }
 
----
+```
 
 ## 🛠️ Development Setup
 
@@ -426,7 +426,7 @@ class PerformanceMonitor {
   }
 }
 
----
+```
 
 ## 🔬 Technical Innovations & Algorithms
 
