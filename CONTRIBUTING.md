@@ -5,7 +5,6 @@
 
 <div align="center">
 
-![Contributing Banner](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Welcome+Contributors!)
 
 **Thank you for your interest in contributing to QlobeQuest! 🌍**  
 *Every contribution helps connect people with global cultures*
@@ -579,7 +578,7 @@ Before submitting a PR, ensure:
 ### 💬 Community Support
 
 - **Discord**: [Connect @](https://discord.com/users/518476056232198171) for real-time help
-- **GitHub Discussions**: [Ask questions](https://github.com/jishanahmed-shaikh/QlobeQuest/discussions)
+- **GitHub Discussions**: [Ask questions](https://github.com/jishanahmed-shaikh/QlobeQuest/issues)
 
 ### 📧 Direct Contact
 
@@ -641,3 +640,4 @@ All reports will be handled confidentially and promptly.
 
 
 </div>
+
