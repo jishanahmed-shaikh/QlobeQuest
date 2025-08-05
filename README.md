@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌍 QlobeQuest
+# 🌍 QlobeQuest - Global Quest for Cultural Discovery 💎
 
 <img src="QlobeQuest.png" alt="QlobeQuest Logo" width="200" height="200" />
 
@@ -636,129 +636,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🌟 Project Statistics & Impact
+## 🙏 Acknowledgments
 
-<div align="center">
+- **Qloo** for providing the Taste AI™ platform
+- **OpenAI** for GPT-4 API access
+- **MongoDB** for database infrastructure
 
-### 📈 Development Metrics
-![GitHub Stars](https://img.shields.io/github/stars/jishanahmed-shaikh/QlobeQuest?style=social) 
-![GitHub Forks](https://img.shields.io/github/forks/jishanahmed-shaikh/QlobeQuest?style=social)
-![GitHub Issues](https://img.shields.io/github/issues/jishanahmed-shaikh/QlobeQuest)
-![GitHub PRs](https://img.shields.io/github/issues-pr/jishanahmed-shaikh/QlobeQuest)
-
-### 🏆 Achievements Targeted Unlocked
-**[]🌍 Cultural Impact**: Connecting 1,000+ users with global cultures  
-**[]🚀 Technical Excellence**: 90% uptime with sub-200ms response times  
-**[]🤝 Community Driven**: 5+ contributors from 5+ countries  
-**[]🔒 Privacy Champion**: Zero personal data collection, maximum cultural discovery  
-
-</div>
-
----
-
-## 🚀 What's Next? Roadmap 2025-2030
-
-### 🎯 By End of 2028
-- **🎮 VR Integration**: Immersive cultural experiences with Meta Quest support
-- **🗣️ Voice Narratives**: Multi-language audio guides with native speaker recordings
-- **📱 Mobile App**: React Native implementation with offline exploration mode
-
-### 🎯 By End of 2029
-- **🤝 Social Quests**: Collaborative exploration with friends and family
-- **🎨 AR Cultural Overlays**: Real-world cultural information through device cameras
-- **📊 Advanced Analytics**: Personal cultural journey insights and recommendations
-
-### 🎯 By End of 2030
-- **🌐 Global Expansion**: Support for 50+ languages and 200+ cultural regions
-- **🎓 Educational Partnerships**: Integration with schools and cultural institutions
-- **🏛️ Museum Collaborations**: Virtual museum tours and artifact exploration
-
----
-
-## 🤝 Join Our Cultural Quest
-
-<div align="center">
-
-### 🌟 Ways to Contribute
-
-[![Contribute Code](https://img.shields.io/badge/Contribute-Code-blue?style=for-the-badge&logo=github)](CONTRIBUTING.md)
-[![Report Issues](https://img.shields.io/badge/Report-Issues-red?style=for-the-badge&logo=github)](https://github.com/jishanahmed-shaikh/QlobeQuest/issues)
-[![Join Me on Discord](https://img.shields.io/badge/Join-Discord-7289da?style=for-the-badge&logo=discord)](https://discord.com/users/518476056232198171)
-[![Follow Me on X(Twitter)](https://img.shields.io/badge/Follow-Twitter-1da1f2?style=for-the-badge&logo=twitter)](https://x.com/jishanarshaikh)
-
-**🎉 Special Recognition for Contributors:**
-- 🥇 **Top Contributors**: Featured on our Hall of Fame
-- 🎁 **Exclusive Swag**: Limited edition QlobeQuest merchandise
-- 🌟 **Early Access**: Beta features and cultural content previews
-- 🏆 **Annual Awards**: Recognition at our virtual cultural celebration
-
-</div>
-
----
-
-## 📞 Connect With Us
-
-<div align="center">
-
-### 🌐 Community & Support
-
-| Platform | Purpose | Link |
-|----------|---------|------|
-| 💬 **Discord** | Real-time Chat | [Join Me on Discord](https://discord.com/users/518476056232198171) |
-| 🐦 **Twitter** | Updates & announcements | [Jishanahmed AR Shaikh](https://x.com/jishanarshaikh) |
-| 📧 **Email** | Business inquiries | shaikhjishan255@gmail.com |
-| 📚 **Documentation** | Technical guides | [Qloo](https://www.qloo.com/) |
-| 🎥 **YouTube** | Tutorials & demos | [My Channel](https://youtube.com/@jishanahmedarshaikh) |
-
-</div>
-
----
-
-## 🙏 Acknowledgments & Credits
-
-<div align="center">
-
-### 🌟 Powered By Amazing Partners
-
-<table>
-<tr>
-<td align="center">
-<img src="https://qloo.com/logo.png" width="100" height="50" alt="Qloo"/><br/>
-<strong>Qloo</strong><br/>
-<em>Taste AI™ Platform</em>
-</td>
-<td align="center">
-<img src="https://openai.com/logo.png" width="100" height="50" alt="OpenAI"/><br/>
-<strong>OpenAI</strong><br/>
-<em>GPT-4 Integration</em>
-</td>
-<td align="center">
-<img src="https://mongodb.com/logo.png" width="100" height="50" alt="MongoDB"/><br/>
-<strong>MongoDB</strong><br/>
-<em>Database Infrastructure</em>
-</td>
-</tr>
-</table>
-
-
-### 📜 Built With Love Using
-
-React • TypeScript • Node.js • MongoDB • Redis • OpenAI • Qloo • Leaflet • Docker • AWS • Vercel
-
-</div>
-
----
-
-<div align="center">
-
-### 🌍 Ready to Explore the World?
-
-**🚀 Start Your Cultural Quest Today**
-
-*Made with ❤️ by [Jishanahmed AR Shaikh](https://github.com/jishanahmed-shaikh) believing in the power of cultural connection*
-
----
-
-**© 2024 QlobeQuest by [Jishanahmed AR Shaikh](https://github.com/jishanahmed-shaikh). Licensed under MIT. Built for curious minds worldwide. 🌟**
-
-</div>
+- **The open-source community** for the incredible tools and libraries
