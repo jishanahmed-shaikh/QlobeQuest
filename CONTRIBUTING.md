@@ -1,4 +1,7 @@
-# 🤝 Contributing to QlobeQuest
+<div align="center">
+
+  # 🤝 Contributing to QlobeQuest
+</div>
 
 <div align="center">
 
@@ -635,5 +638,6 @@ All reports will be handled confidentially and promptly.
 ---
 
 **© 2025 QlobeQuest by [Jishanahmed AR Shaikh](https://github.com/jishanahmed-shaikh) & Contributors. Made with ❤️ for cultural exploration.**
+
 
 </div>
